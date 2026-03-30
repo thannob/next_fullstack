@@ -20,7 +20,7 @@ export default function Page() {
 
   return (
     <div>
-      <h1>Hello Attractions</h1>
+      <h1>Attractions</h1>
      <div>
         <Link href="/attractions/new">Create New Attraction</Link>
       </div>
